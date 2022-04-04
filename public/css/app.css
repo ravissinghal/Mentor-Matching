@@ -1,0 +1,95 @@
+aside ul
+{
+    list-style-type: none;
+}
+
+aside ul li span
+{
+    color: black;
+}
+
+aside ul li a i
+{
+    padding: inherit;
+}
+
+.create_btn
+{
+    float: right;
+}
+
+.container
+{
+    padding-top: inherit;
+}
+
+.action_btn2
+{
+    margin-left: 4px;
+}
+
+
+
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.52857143;
+    color: #515253;
+    background-color: #f5f7fa;
+    margin-top:20px;
+  }
+
+  .widget .panel, .widget.panel {
+    overflow: hidden;
+  }
+
+  .widget {
+    margin-bottom: 20px;
+    border: 0;
+  }
+
+  .bg-gray-darker {
+    background-color: #232735;
+    color: #fff!important;
+  }
+
+  .row-table {
+    display: table;
+    table-layout: fixed;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  .row-table>[class*=col-] {
+    display: table-cell;
+    float: none;
+    table-layout: fixed;
+    vertical-align: middle;
+  }
+
+  .text-white {
+    color: #fff;
+  }
+
+  .thumb128 {
+    width: 128px!important;
+    height: 128px!important;
+  }
+
+  .m0 {
+    margin: 0!important;
+  }
+
+  .bg-gray-darker {
+    background-color: #232735;
+    color: #fff!important;
+  }
+
+  .list-group {
+    line-height: 1.3;
+  }
+
+  .panel>.list-group .list-group-item {
+    border-top: 0;
+  }
