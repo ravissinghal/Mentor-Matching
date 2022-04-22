@@ -1,5 +1,6 @@
 <h2>Mentor Matching</h2>
 <h5>The application is built to perform automate matching of mentee with the mentor.</h5>
+<h5>Used KNN Classification algorithm.</h5>
     
 <h2>Prerequisite</h2>
 <h5> 1. PHP <br>
